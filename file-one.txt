@@ -1,6 +1,5 @@
  file one 
-<<<<<<< HEAD
  featurex change
-=======
- feature y change
->>>>>>> featureY
+
+
+
